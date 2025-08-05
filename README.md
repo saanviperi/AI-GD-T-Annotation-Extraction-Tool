@@ -1,1 +1,2 @@
 # AI-GD&T-Annotation-Extraction-Tool
+For an analyst performing calculations, reading engineering drawing and extracting geometrical data is a manually involved process which costs significant time and effort. Engineering calculations are sensitive to error free data. The project aimed to evaluate the feasibility of using AI assisted methods and computer vision to automate what is traditionally a manual and error-prone process. After testing several configurations and tools across both local and cloud environments, the final working solution integrates 
