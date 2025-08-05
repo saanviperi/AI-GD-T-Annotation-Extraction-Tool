@@ -1,1 +1,1 @@
-# AI-GD-T-Annotation-Extraction-Tool
+# AI-GD&T-Annotation-Extraction-Tool
